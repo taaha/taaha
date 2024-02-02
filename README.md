@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </div>
 </h1>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=taaha&label=Profile%20views&color=0e75b6&style=for-the-badge&color=CD5C5C&label=PROFILE+VIEWS" alt="taaha" /> </p>
 <!--
 <div id="header" align="center">
   <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100"/>
